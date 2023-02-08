@@ -15,12 +15,12 @@
 // 4. Implements radius search  (rtreego and go.geo only have range search)
 //
 // There are three amazing other options for geospatial indexing:
-//   tile38 - http://tile38.com
-//   go.geo - https://github.com/paulmach/go.geo/tree/master/quadtree
-//   rtreego - https://github.com/dhconnelly/rtreego
+//
+//	tile38 - http://tile38.com
+//	go.geo - https://github.com/paulmach/go.geo/tree/master/quadtree
+//	rtreego - https://github.com/dhconnelly/rtreego
 //
 // All this modules are dynamic and complex.
-//
 //
 // This implementation is based on:
 //
@@ -29,5 +29,4 @@
 // C++11 port: https://github.com/mourner/kdbush.hpp
 //
 // If you liked the project, start it please: https://github.com/MadAppGang/kdbush
-//
 package kdbush
